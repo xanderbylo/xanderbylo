@@ -1,4 +1,4 @@
-# <img src="https://github.com/xanderbylo/xanderbylo/blob/main/wave.gif?raw=true" width="30px"> Hey
+# <img src="https://github.com/xanderbylo/xanderbylo/blob/main/images/wave.gif?raw=true" alt="Waving hand emoji gif" width="30px"> Hey
 
 ## :man_technologist: About me
 
