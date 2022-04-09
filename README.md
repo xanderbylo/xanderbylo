@@ -16,4 +16,5 @@ I'm an aspiring Web3 Developer learning to code through [The Odin Project](https
 
 Come and say hello!
 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@xanderbylo)
 [![Twitter](https://img.shields.io/twitter/follow/xanderbylo?logo=twitter&style=for-the-badge)](https://twitter.com/xanderbylo)
