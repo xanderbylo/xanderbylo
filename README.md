@@ -2,11 +2,11 @@
 
 ## :man_technologist: About me
 
-I'm a future Web3 Developer learning to code through [The Odin Project](https://www.theodinproject.com/). I'm passionate about Blockchain, Crypto and the Metaverse.
+I'm a future Web3 Developer learning to code through [The Odin Project](https://www.theodinproject.com/). I'm passionate about Blockchain, Crypto, NFTS and the Metaverse.
 
 * :telescope: I'm working on a JavaScript [fighting-game](https://github.com/xanderbylo/fighting-game)
 * :seedling: I'm learning JavaScript
-* :speech_balloon: Ask me about Web3, art and design
+* :speech_balloon: Ask me about Web3
 
 ## :desktop_computer: My skills
 
@@ -17,4 +17,4 @@ I'm a future Web3 Developer learning to code through [The Odin Project](https://
 Come and say hello!
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@xanderbylo)
-[![Twitter](https://img.shields.io/twitter/follow/xanderbylo?logo=twitter&style=for-the-badge)](https://twitter.com/xanderbylo) b
+[![Twitter](https://img.shields.io/twitter/follow/xanderbylo?logo=twitter&style=for-the-badge)](https://twitter.com/xanderbylo)
