@@ -13,7 +13,7 @@ I'm a future Web3 Developer learning to code through [The Odin Project](https://
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-## :writing_hand: Latest Hashnode Blogs
+## :writing_hand: Latest Hashnode blogs
 
 - [:brain: 6 Things I Learnt from 2 Months of Coding](https://xanderbylo.hashnode.dev/beginners-guide-to-coding)
 
