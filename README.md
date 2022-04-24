@@ -5,7 +5,7 @@
 I'm a future Web3 Developer learning to be a Full Stack Developer through [The Odin Project](https://www.theodinproject.com/) and Web3 through [buildspace](https://buildspace.so/). I'm passionate about Blockchain, Crypto, NFTs and the Metaverse.
 
 * :telescope: I'm working on a JavaScript [fighting-game](https://github.com/xanderbylo/fighting-game)
-* :seedling: I'm learning how to build a Web3 app with Solidity and Ethereum Smart Contracts
+* :seedling: I'm learning how to build a [Web3 app](https://waveportal-starter-project.xanderbylo.repl.co) with Solidity and Ethereum Smart Contracts
 * :books: I'm reading the Bitcoin white paper
 * :speech_balloon: Ask me about my Web3 app!
 
