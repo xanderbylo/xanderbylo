@@ -4,6 +4,7 @@
 
 I'm a Full Stack Developer learning to code through [The Odin Project](https://www.theodinproject.com/). I'm passionate about Web Design, Blockchain, NFTs and Crypto.
 
+* :brain: I'm currently learning about JavaScript loops and Test Driven Development
 * :floppy_disk: I'm creating a [Free Resources](https://github.com/xanderbylo/free-resources) repository to show... well... free resources that you can use to learn to code! Check it out and give it a :star: if you want to keep up to date!
 * :v: I recently built a [Rock Paper Scissors](https://github.com/xanderbylo/rock-paper-scissors) game using JavaScript that runs in the console
 * :seedling: I built a [Web3 app](https://waveportal-starter-project.xanderbylo.repl.co) with Solidity and Ethereum Smart Contracts and deployed it to the Rinkeby Test Network
